@@ -17,3 +17,7 @@ Download repository
 
 Run using:
 $ python3 runCode.py
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
